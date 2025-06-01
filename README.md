@@ -1,6 +1,6 @@
 # To install pydantic
 pip install pydantic
-
+pip install pydantic[EmailStr]
 
 Field function is used for :- 
 
